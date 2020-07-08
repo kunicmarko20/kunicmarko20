@@ -1,16 +1,13 @@
-### Hi there 👋
+![Bear hi gif](https://gist.github.com/kunicmarko20/b79cfd1be1fcc94776f1f35f44daf7a5/raw/bd218e52bba342537fd24f3ea6b92074a85ab104/hi.gif)
 
-<!--
-**kunicmarko20/kunicmarko20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I enjoy learning new things, and improving my skills.
 
-Here are some ideas to get you started:
+My repositories are a mix of PHP :elephant:, Go :hamster:, Rust :crab:, and Java :coffee:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:raising_hand: I love open source and helping people, just send me a message if you think I can help.
+
+:wrench: I love to automate boring parts of my jobs, so you will probably find a bunch of cli apps, and some bash scripts [here](https://gist.github.com/kunicmarko20).
+
+:raised_hands: I almost always have an opinion about code design/architecture/naming because I really care about writing good code, and making the job easier for the next person.
+
+:blue_book: If you need a tech book recommendation, I can help with that.
