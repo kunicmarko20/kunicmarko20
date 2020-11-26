@@ -8,7 +8,7 @@ My repositories are a mix of :elephant: :crab: :coffee: :hamster::
 
 :raising_hand: I love open source and helping people, just send me a message if you think I can help.
 
-:wrench: I love to automate boring parts of my jobs, so you will probably find a bunch of cli apps, and some bash scripts [here](https://gist.github.com/kunicmarko20).
+:wrench: I love to automate boring parts of my jobs, so you will probably find a bunch of cli apps, and [some bash scripts](https://gist.github.com/kunicmarko20).
 
 :raised_hands: I almost always have an opinion about code design/architecture/naming because I really care about writing good code, and making the job easier for the next person.
 
