@@ -2,7 +2,9 @@
 
 :computer: I enjoy learning new things, and improving my skills.
 
-My repositories are a mix of PHP :elephant:, Go :hamster:, Rust :crab:, and Java :coffee:.
+My repositories are a mix of :elephant: :crab: :coffee: :hamster::
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunicmarko20&hide=html,css&langs_count=6&layout=compact)
 
 :raising_hand: I love open source and helping people, just send me a message if you think I can help.
 
